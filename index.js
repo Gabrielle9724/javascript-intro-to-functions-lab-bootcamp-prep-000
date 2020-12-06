@@ -24,13 +24,13 @@ function sayHiToGrandma(string){
   mixedCase.toUpperCase === mixedCase
   mixedCase.toLowerCase === mixedCase
 
-  if(uppercase){
+/*  if(uppercase){
     return "YES INDEED!"
   }
-  if (string= "hello!"){
+  if (lowercase){
     return "I can\'t hear you!"
   }
   if (string= "I love you, Grandma."){
     return "I love you, too."
-  }
+  }*/
 }
